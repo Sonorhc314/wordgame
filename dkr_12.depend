@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1621114401 source:c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"variables.h"
+	<string.h>
+
+1621116425 source:c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\game.c
+	"game.h"
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+
+1621108999 c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\game.h
+
+1621106321 c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\variables.h
+	<stdio.h>
+	<stdlib.h>
+
+1621105857 c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\menu.h
+
+1621106120 source:c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\variables.c
+
+1621114401 source:c:\users\sonor\onedrive\desktop\dkr_proga\dkr_12\menu.c
+	"menu.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"variables.h"
+

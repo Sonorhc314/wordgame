@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1646495744 source:c:\users\sonor\downloads\kv01rybalkargr(12)\kv01rybalkargr(12)\game.c
+	"game.h"
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+
+1646495744 c:\users\sonor\downloads\kv01rybalkargr(12)\kv01rybalkargr(12)\game.h
+
+1646495744 c:\users\sonor\downloads\kv01rybalkargr(12)\kv01rybalkargr(12)\variables.h
+	<stdio.h>
+	<stdlib.h>
+
+1646495744 source:c:\users\sonor\downloads\kv01rybalkargr(12)\kv01rybalkargr(12)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"variables.h"
+	<string.h>
+
+1646495744 c:\users\sonor\downloads\kv01rybalkargr(12)\kv01rybalkargr(12)\menu.h
+
+1646495744 source:c:\users\sonor\downloads\kv01rybalkargr(12)\kv01rybalkargr(12)\menu.c
+	"menu.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"variables.h"
+
